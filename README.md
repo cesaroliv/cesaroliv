@@ -1,4 +1,4 @@
-﻿# CÃ©sar Crispim
+# CÃ©sar Crispim
 
 ### QA â€¢ AutomaÃ§Ã£o â€¢ Dados â€¢ E-commerce â€¢ Produtos digitais com IA
 
