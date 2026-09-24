@@ -93,3 +93,11 @@ NÃ£o apresento projeto experimental como produto em produÃ§Ã£o: cada case 
 Tenho interesse em trabalhos pontuais ou recorrentes de **QA, suporte operacional, validaÃ§Ã£o de dados, e-commerce, automaÃ§Ã£o, testes web e construÃ§Ã£o de ferramentas internas**.
 
 Para avaliar meu trabalho, comece pelos projetos acima â€” cada um foi selecionado por demonstrar uma competÃªncia diferente.
+
+## Contato profissional
+
+- **Workana:** https://www.workana.com/freelancer/9a537f9246020fe756819c576b37096b
+- **Portfólio web:** https://criandocomia.com/
+- **GitHub:** https://github.com/cesaroliv
+
+Se o projeto envolve **testar, validar, organizar, automatizar ou transformar um processo manual em ferramenta**, provavelmente vale conversar.
