@@ -8,6 +8,15 @@ Meu trabalho é orientado a entrega: entender o problema, definir escopo e crit�
 
 > **Disponível para projetos freelance remotos em português (PT-BR).**
 
+## Product in production — Marketplace Sync Guard
+
+**Free Chrome extension for e-commerce and marketplace operations.** Compare CSV/XLSX exports from ERP and sales channels to find inventory, price, SKU, presence and status mismatches before they become order problems or lost sales.
+
+- 🌍 **Website:** https://syncguard.lumenanima.com/
+- 🧩 **Chrome Web Store:** https://chromewebstore.google.com/detail/marketplace-sync-guard/dnmpgmjoadamfgdoemcifmgdijapklbf
+- 🔒 Local-first and read-only: operational files stay on the user's device
+- 🌐 English, Portuguese and Spanish
+
 ## Como posso ajudar
 
 - **QA manual e testes funcionais** de sites, aplicações web e fluxos de e-commerce
