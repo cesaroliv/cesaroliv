@@ -17,6 +17,15 @@ Meu trabalho é orientado a entrega: entender o problema, definir escopo e crit�
 - 🔒 Local-first and read-only: operational files stay on the user's device
 - 🌐 English, Portuguese and Spanish
 
+## Practice product — QA + Security Bug Hunt Lab
+
+**Browser-based practice lab for manual QA and defensive security awareness.** Find 12 intentional issues, capture reproducible evidence, practice severity/priority judgment, accessibility and responsive testing, and turn the exercise into truthful portfolio material.
+
+- 🧪 **Practice lab:** https://crispim34.gumroad.com/l/xgznrn?utm_source=github&utm_medium=profile&utm_campaign=qa_lab_launch&utm_content=profile_readme
+- 📚 **Free QA guides:** https://lumenanima.com/guides/
+- 🔎 Evidence-first workflow, scoring rubric and answer key
+- 🛡️ Defensive security awareness — not offensive exploitation training
+
 ## Como posso ajudar
 
 - **QA manual e testes funcionais** de sites, aplicações web e fluxos de e-commerce
