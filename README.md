@@ -26,6 +26,14 @@ Meu trabalho é orientado a entrega: entender o problema, definir escopo e crit�
 - 🔎 Evidence-first workflow, scoring rubric and answer key
 - 🛡️ Defensive security awareness — not offensive exploitation training
 
+## Free seller utility — Shopee Price Rescue
+
+**Free browser tool for Shopee sellers.** It highlights price ranges where crossing a fee boundary can reduce net profit and calculates the recovery price using the seller's own cost assumptions.
+
+- 🧮 **Price Rescue:** https://lumenanima.com/tools/shopee-price-rescue.html?utm_source=github&utm_medium=profile&utm_campaign=price_rescue_finishmode_20260928&utm_content=cesar_profile
+- 📚 **Seller guides:** https://lumenanima.com/guides/
+- 🔗 Designed as the top of the funnel for sellers who may later need Marketplace Sync Guard for multi-channel consistency.
+
 ## Como posso ajudar
 
 - **QA manual e testes funcionais** de sites, aplicações web e fluxos de e-commerce
