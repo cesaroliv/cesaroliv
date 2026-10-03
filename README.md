@@ -8,6 +8,16 @@ Meu trabalho é orientado a entrega: entender o problema, definir escopo e crit�
 
 > **Disponível para projetos freelance remotos em português (PT-BR).**
 
+## New — ChatGPT Ads QuickLaunch + Commerce Feed Doctor
+
+**Two early-mover offers for businesses entering ChatGPT Ads and commerce feed workflows.**
+
+- 🚀 **ChatGPT Ads QuickLaunch:** https://lumenanima.com/labs/chatgpt-ads-quicklaunch.html?utm_source=github&utm_medium=profile&utm_campaign=chatgpt_ads_quicklaunch
+- 🩺 **Commerce Feed Doctor:** https://lumenanima.com/tools/commerce-feed-doctor.html?utm_source=github&utm_medium=profile&utm_campaign=commerce_feed_doctor
+- QuickLaunch packages campaign structure, context hints, measurement preflight and launch QA.
+- Commerce Feed Doctor audits CSV/TXT feeds locally for ChatGPT Ads + baseline Google Merchant readiness and cross-feed drift.
+- Independent Lumen Anima Labs work; not affiliated with or endorsed by OpenAI or Google.
+
 ## Product in production — Marketplace Sync Guard
 
 **Free Chrome extension for e-commerce and marketplace operations.** Compare CSV/XLSX exports from ERP and sales channels to find inventory, price, SKU, presence and status mismatches before they become order problems or lost sales.
